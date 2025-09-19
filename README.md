@@ -10,10 +10,10 @@ A powerful AI Agent that integrates a local LLM (via Ollama) with external tools
 
 ## 📋 Table of Contents
 
-- [Features](#-features)
-- [Demo](#-demo)
-- [Prerequisites](#-prerequisites)
-- [Quick Start](#-quick-start)
+- [Features](##-features)
+- [Demo](##-demo)
+- [Prerequisites](##-prerequisites)
+- [Quick Start](##-quick-start)
 - [API Endpoints](#-api-endpoints)
 - [Environment Variables](#-environment-variables)
 - [Docker Deployment](#-docker-deployment)
